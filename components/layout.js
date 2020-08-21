@@ -45,6 +45,7 @@ export default function Layout({ children, home }) {
                 />
               </a>
             </Link>
+            <h1>学习如何使用next.js建一个个人网站</h1>
             <h2 className={utilStyles.headingLg}>
               <Link href="/">
                 <a className={utilStyles.colorInherit}>{name}</a>
